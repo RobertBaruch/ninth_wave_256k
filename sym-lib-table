@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Hitachi_Memory")(type "KiCad")(uri "${KIPRJMOD}/Hitachi_Memory.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_AppleII")(type "KiCad")(uri "${KIPRJMOD}/Connector_AppleII.kicad_sym")(options "")(descr ""))
+)
